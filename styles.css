@@ -1,0 +1,49 @@
+
+section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content:space-around;
+    border-style: 2px solid blue ;
+    background-color:rgba(245, 39, 231, 0.58);
+    font-size: small;
+    margin: 10px
+}
+body{
+    text-align: center;
+    background-color: dodgerblue;
+}
+ul{
+    display: inline;
+    text-align: center;
+    align-items: center;
+    margin-right: 20px;
+    font-size:smaller;
+    
+}
+
+.facts{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+
+img{
+    Display:inline;
+    background-image: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVzdDZrczhnenZkdTk5aDBia2ppdTltZ3cxMWhhNGh4cWswdDkwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cQ23bDqzbWbh240xQq/giphy.gif);
+    margin-top: 30px;
+    
+
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    color: maroon;
+    font-style: italic;
+}
+h3{
+   font-style: normal;
+   font-weight: lighter;
+
+}
